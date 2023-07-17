@@ -1,5 +1,5 @@
 # FlyoUI
 30 days of code with VickyJay day 1 {Flyo UI}
 
-#Link
- -- flyoui.netlify.app
+# Link
+ -- https://flyoui.netlify.app
